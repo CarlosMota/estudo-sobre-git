@@ -1,0 +1,1 @@
+Adicionando um terceiro arquivo para fazer o squash
