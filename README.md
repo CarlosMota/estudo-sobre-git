@@ -13,7 +13,6 @@
 |git help \[comando\]|Help|
 |git branch -m|Muda o nome do branch|
 |git merge \[nome do branch que vai fazer o merge com o branch corrente\] --squash|Junta todas as modificações do branch que vai fazer o merge com o corrente em um único commit e deixando na mesma linha|
-<<<<<<< HEAD
 
 ## Git merge
 
@@ -35,8 +34,12 @@ Um exemplo de como fica árvore com o merge squash
 ```git
 /estudo-sobre-git (main)
 $git merge testando_squash --squash
+<<<<<<< HEAD
 ```
 
 <p align="center">
     <img src="image/squash.png">
 </p>
+=======
+```
+>>>>>>> origin/main
