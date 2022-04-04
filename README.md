@@ -37,7 +37,7 @@ $git merge testando_squash --squash
 ```
 
 <p align="center">
-    <img src="images/merge.png">
+    <img src="images/squash.png">
 </p>
 
 ## Git rebase
