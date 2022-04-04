@@ -24,7 +24,7 @@ $git merge new_feature
 ```
 
 <p align="center">
-    <img src="image/merge.png">
+    <img src="images/merge.png">
 </p>
 
 ## Git Squash
@@ -34,12 +34,8 @@ Um exemplo de como fica árvore com o merge squash
 ```git
 /estudo-sobre-git (main)
 $git merge testando_squash --squash
-<<<<<<< HEAD
 ```
 
 <p align="center">
-    <img src="image/squash.png">
+    <img src="images/merge.png">
 </p>
-=======
-```
->>>>>>> origin/main
