@@ -34,8 +34,12 @@ Um exemplo de como fica árvore com o merge squash
 ```git
 /estudo-sobre-git (main)
 $git merge testando_squash --squash
+<<<<<<< HEAD
 ```
 
 <p align="center">
     <img src="image/squash.png">
 </p>
+=======
+```
+>>>>>>> origin/main
