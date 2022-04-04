@@ -39,3 +39,11 @@ $git merge testando_squash --squash
 <p align="center">
     <img src="images/merge.png">
 </p>
+
+## Git rebase
+
+
+```code
+
+
+```
