@@ -42,8 +42,14 @@ $git merge testando_squash --squash
 
 ## Git rebase
 
+Um exemplo de como fica árvore com o rebase
 
 ```code
-
+/estudo-sobre-git (main)
+$git rebase testando_squash --squash
 
 ```
+
+<p align="center">
+    <img src="images/rebase.png">
+</p>
